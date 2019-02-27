@@ -1,5 +1,9 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(drawf)# code an argument here
   # Your code here
+  new_arr = []
+  new_array.each do |drawf|
+    puts "#{drawf}"
+  end
 end
 
 def summon_captain_planet# code an argument here
