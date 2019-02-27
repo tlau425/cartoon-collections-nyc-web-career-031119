@@ -1,7 +1,7 @@
 def roll_call_dwarves(dwarves)# code an argument here
   # Your code here
   new_arr = []
-  new_array.each do |dwarves|
+  new_arr.each do |dwarves|
     puts "#{dwarves}"
   end
 end
