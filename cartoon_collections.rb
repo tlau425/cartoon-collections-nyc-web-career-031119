@@ -2,7 +2,6 @@ dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 def roll_call_dwarves(dwarves)# code an argument here
   # Your code here
-  new_arr = []
   new_arr.each_with_index do |dwarves, index|
     puts "#{index+1}. #{dwarves}"
   end
